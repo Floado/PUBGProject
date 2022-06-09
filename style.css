@@ -1,0 +1,164 @@
+body{
+font-family: verdana;
+background-image:url(image/5.png );
+background-size: 120%;
+
+
+
+}*{
+	margin: 1;
+	padding: 0;
+}
+
+header{
+	position: center;
+	background-color: #FF29A3;
+	width: 47%;
+	color: yellow;
+}
+header{
+	height: 10vh;
+}
+header h1{
+	position: absolute;
+	margin-top: 15px;
+	left: 20%;
+}
+.footer-container  {
+    color: green;
+    width:100%;
+    float:left;
+    background-color: #EB8C09;
+}
+
+
+
+.nav{
+	position: absolute;
+	width: 100%;
+}
+.nav a{
+	position: relative;
+	left: 65%;
+	top:20px;
+	color: white;
+	text-decoration: none;
+	margin-right: 20px;
+
+}
+#divh2{
+	margin-left: 10%;
+	color: white;
+}
+#foto{
+	margin-top: 5%;
+	margin-left: -7%;
+	border-radius: 7%;
+
+}
+#section1{
+    display: block;
+    float: left;
+    width: 550px;
+    height: 500px;
+    padding: 20px;
+    color: white;
+    padding-left:12%;
+}
+#section2{
+    width: 550px;
+    height: 500px;
+    padding: 20px;
+    color: white;
+    padding-left:12%;
+}
+#text{
+	margin-left: -7%;
+	text-shadow: 3px 3px 3px #000;
+}
+#knopka{
+	color: #ffc30b;
+}
+#knopka2{
+	color: white;
+}
+p,h1,h2,h3{
+	text-shadow: 3px 3px 3px #000;
+}
+#knop{
+	color: #ffc30b;
+}
+
+#foto3{
+	margin-top: 40%;
+}
+#text1{
+	margin-left: 37%;
+    color: white;
+     width: 25%;
+}
+#div1{
+	float: left;
+	margin-left: 10%;
+
+}
+#div2{
+	float: right;
+	margin-right: 25%;
+
+}
+#foto4{
+	border-radius: 7%;
+}
+#foto5{
+	border-radius: 7%;
+	margin-top: 100px;
+	margin-left: -45%;
+}
+#text2{
+	margin-left:10%;
+    color: white;
+    width: 25%;
+    margin-top:2px;
+
+}
+#text4{
+	margin-left:10%;
+    color: white;
+    width: 25%;
+    margin-top:105px;
+
+}
+#photo1{
+	margin-left: 2%;
+	border-radius: 7%;
+}
+#photo2{
+	margin-right: 35%;
+	border-radius: 7%;
+}
+
+#photo3{
+	margin-top: 2%;
+	margin-left: 2%;
+	border-radius: 7%;
+
+}
+
+#photo4{
+	margin-left: 10%;
+	border-radius: 7%;
+}
+#photo5{
+	margin-top: 2%;
+	margin-right: 35%;
+	margin-left: 2%;
+	border-radius: 7%;
+}
+#photo6{
+
+	margin-top: 2%;
+	margin-left: -25%;
+	border-radius: 7%;
+}
+
